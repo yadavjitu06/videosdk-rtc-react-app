@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "@videosdk.live/react-sdk": "^0.6.2",
     "hls.js": "^1.6.15",
+    "lucide-react": "^0.560.0",
     "react": "^19.2.1",
     "react-dom": "^19.2.1",
     "react-player": "^3.4.0",
